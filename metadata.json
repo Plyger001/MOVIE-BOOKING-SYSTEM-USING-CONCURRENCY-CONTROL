@@ -1,0 +1,5 @@
+{
+  "name": "CineLock: Concurrent Movie Booking Simulator",
+  "description": "A high-fidelity simulation of a concurrent movie ticket booking system featuring pessimistic locking, deadlock detection, and 7-minute seat reservation timeouts, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
